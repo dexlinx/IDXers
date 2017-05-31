@@ -1,0 +1,82 @@
+.listContainer {
+    position: relative;
+    width: 100%;
+    height: 121px;
+    border-width: 1px;
+     border-bottom: solid;
+    padding-top: 11px;
+
+}
+
+.listItemContainer {
+    float: left;
+    position: relative;
+    height: auto;
+    width: 60%;
+}
+
+
+.backToList {
+    position: absolute;
+    top: 240px;
+    margin: auto;
+    width: 58%;
+    text-align: center;
+    height: 38px;
+}
+
+.fusion-sharing-box.fusion-single-sharing-box.share-box {
+    display: none !important;
+}
+
+img {
+    float: right;
+}
+
+input[type="image"] {
+    float: right;
+}
+
+.btn-link{
+  border:none;
+  outline:none;
+  background:none;
+  cursor:pointer;
+  color:#0000EE;
+  padding:0;
+  text-decoration:underline;
+  font-family:verdana;
+  font-size:inherit;
+  display: inline-block;
+  float: left;
+  margin-right:10px;
+ 
+}
+
+.statusLinks{
+width: 50%;
+height: 40px;
+margin:auto;
+}
+
+table, td, th {
+    border: 1px solid #e3e3e3;
+ }		
+		
+.showVotes{
+width: 90px;
+position: relative;
+float: right;
+text-align: right;
+		
+}
+
+.voteContainer{
+    width: 15%;
+    height: 50px;
+    position: relative;
+    float: right;
+}
+
+
+.single-idxers #content {width: 85% !important;}
