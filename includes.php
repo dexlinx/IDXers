@@ -1,9 +1,9 @@
 <?php
 //Site URL
-$SITE_URL = "http://learn.idxbroker.com";
-$VOTE_IMG = "/wp-content/plugins/idxers/vote.png";
-$VOTED_IMG = "/wp-content/plugins/idxers/voted.png";
+$SITE_URL = "[Site URL]";
+$VOTE_IMG = "/path/to/image/vote.png";
+$VOTED_IMG = "/path/to/image/voted.png";
 $PAGE_PATH = $_SERVER['REQUEST_URI'];
-$VOTE_PLUGIN_DIR = '/wp-content/plugins/idxers/';
-$FB_APP_ID = '1116440061761832';
+$VOTE_PLUGIN_DIR = '/path/to/plugin/idxers/';
+$FB_APP_ID = '[FB App ID]';
 ?>
